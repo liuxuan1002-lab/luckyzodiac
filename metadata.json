@@ -1,0 +1,17 @@
+{
+  "name": "luckyzodiac",
+  "description": "LuckyZodiac is a Chinese Zodiac inspired Web3 culture project combining zodiac-themed NFTs with a community token on Base. The project explores digital identity, symbolic storytelling, NFT collecting, and community participation through the twelve animals of the Chinese zodiac. The NFT collection represents cultural art and zodiac identity, while the LuckyZodiac token is designed to support future ecosystem engagement, rewards, access, and community development. No financial return, investment profit, or token value appreciation is promised or guaranteed.",
+  "image": "https://luckyzodiacclub.com/logo.png",
+  "external_link": "https://luckyzodiacclub.com/",
+  "social_urls": [
+    "https://x.com/liuxuan167196",
+    "https://opensea.io/zh-CN/collection/chinese-12-zodiacs-622567113"
+  ],
+  "properties": {
+    "website": "https://luckyzodiacclub.com/",
+    "x": "https://x.com/liuxuan167196",
+    "nft_collection": "https://opensea.io/zh-CN/collection/chinese-12-zodiacs-622567113",
+    "network": "Base",
+    "category": "Web3 Culture / NFT / Community Token"
+  }
+}
